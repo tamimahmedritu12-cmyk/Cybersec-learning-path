@@ -1,11 +1,11 @@
-# 🌐 Network Fundamentals - TryHackMe Notes
+#  Network Fundamentals - TryHackMe Notes
 
 **Path:** Pre-Security  
 **Status:**  Completed  
 
 ---
 
-## 🎯 Rooms Covered
+## Rooms Covered
 * What is Networking?
 * Intro to LAN
 * OSI Model
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Key Technical Concepts
+##  Key Technical Concepts
 
 ### 1. OSI Model (Open Systems Interconnection)
 The OSI model consists of **7 layers** that standardize how data is transmitted over a network:
@@ -36,5 +36,5 @@ The OSI model consists of **7 layers** that standardize how data is transmitted 
 
 ---
 
-## 🛠️ Key Takeaway for Cybersecurity
+## Key Takeaway for Cybersecurity
 Understanding network topology and the OSI model is crucial for analyzing traffic patterns and identifying where a cyber attack (like man-in-the-middle or packet sniffing) is occurring.
