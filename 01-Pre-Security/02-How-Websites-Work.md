@@ -1,4 +1,4 @@
-# 🕸️ How Websites Work & Web Technologies - TryHackMe Notes
+# How Websites Work & Web Technologies - TryHackMe Notes
 
 **Path:** Pre-Security  
 **Status:** Completed  
@@ -46,5 +46,5 @@ HTTP is the protocol used to transfer data web pages over the internet.
 
 ---
 
-## 🛠️ Key Takeaway for Cybersecurity
+##  Key Takeaway for Cybersecurity
 Web penetration testing relies heavily on understanding HTTP requests and responses to detect vulnerabilities like Cross-Site Scripting (XSS) or SQL Injection.
