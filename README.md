@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here, I document my progress, notes, and technical write-ups as I transition into Software Engineering & Cyber Warfare.
 
 ##  Current Statistics
-- **TryHackMe Rank:** Top 20%
+- **TryHackMe Current Rank:** Top 17
 - **Status:** Pre-Security Path Completed!
 
 ## Learning Paths & Documentation
